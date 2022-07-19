@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const FeedbackOptionsStyled = styled.button`
+export const Button = styled.button`
   padding: 8px, 4px;
 
   background-color: #ffffff;
